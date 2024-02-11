@@ -1,9 +1,9 @@
 Verse1.txt
 Chorus-occurrence-1.txt
 Verse2.txt
-Chorus-occurrence-2.txt
+Chorus-occurrence-1.txt
 Verse3.txt
-Chorus-occurrence3.txt
+Chorus-occurrence-1.txt
 
 
 
